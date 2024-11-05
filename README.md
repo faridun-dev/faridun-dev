@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatkhullozoda Faridun</h1>
 <h3 align="center">A passionate mobile developer from Tajikistan</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img align="center" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridun-dev&label=Views&color=26a269&style=flat" alt="faridun-dev" /> </p>
 
